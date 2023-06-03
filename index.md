@@ -7,4 +7,4 @@ I am testing
 
 ---
 
-[Contact me](mailto:agmalpartida@gmail.com) to talk!
+[Contact me](mailto:me@albertogalvez.com) to talk!
