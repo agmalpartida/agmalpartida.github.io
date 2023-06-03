@@ -1,0 +1,47 @@
+# Dependencies
+highlighter: rouge
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+# Permalinks
+permalink: /blog/:categories/:title/
+# permalink:            blog/:categories/:year/:month/:day/:title/
+
+# Setup
+title: 'Alberto Galvez'
+name: 'Alberto Galvez'
+#tagline:          ''
+description: 'DevOps Engineer'
+#url:              http://agmalpartida.github.io/
+baseurl:
+blogurl: /blog/
+# Assets
+images: '/img'
+pdfs: '/pdf'
+author:
+  name: 'Alberto Galvez'
+  url: albertogalvez.com
+  email: 'agmalpartida@gmail.com'
+  github: 'https://github.com/agmalpartida'
+  # facebook: ''
+  # twitter: 'https://twitter.com/agmalpartida'
+  # googleplus: ''
+  linkedin: 'https://www.linkedin.com/in/agmalpartida'
+paginate: 5
+paginate_path: "/blog/page:num/"
+# Custom vars
+version: 2.1.0
+github:
+  repo: https://github.com/agmalpartida/agmalpartida.github.io
+# Collections
+collections:
+  - projects
+  - resume
+
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "projects" # a collection in your site, in plural form
+#     values:
+#       layout: "default"
