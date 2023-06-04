@@ -4,7 +4,7 @@ title: Hi there 👋
 ---
 
 
-- 🔭 I’m currently working on ... at home
+- 🔭 I’m currently working ... at home
 
 <a href= "https://www.linkedin.com/in/agmalpartida"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
 
