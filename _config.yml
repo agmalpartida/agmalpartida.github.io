@@ -11,7 +11,7 @@ permalink: /blog/:categories/:title/
 title: 'Alberto Galvez'
 name: 'Alberto Galvez'
 #tagline:          ''
-description: 'DevOps Engineer'
+description: 'CTO & DevOps/Cloud Engineer'
 #url:              http://agmalpartida.github.io/
 baseurl:
 blogurl: /blog/
