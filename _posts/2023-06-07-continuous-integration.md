@@ -11,7 +11,7 @@ categories: devops
 
 **Continuous Deployment**, take continuous delivey a step further by automatically deploying all releases into production. Whereas continuous delivery mandates that software can be reliably released at any time, it doesn't requiere that every release is in fact released to production. Follow the exact same pattern as Continuous Delivery pattern with one key difference, Humans intervention is removed from the process.
 
-![cicd](cicd.png)
+![cicd](/img/cicd.png)
 
 ## Shipping Sofware
 
