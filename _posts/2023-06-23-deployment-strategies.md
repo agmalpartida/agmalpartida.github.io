@@ -5,8 +5,8 @@ date:   2023-06-23 23:15:00 +0200
 categories: devops
 ---
 
-There're several strategies you can use for application deployment, depending on your requirements.
-For instance, we've 5 copies of a old version of your application running and we want to roll out a new one. A few of the strategies that it could get use:
+There are several strategies you can use for application deployment, depending on your requirements.
+For instance, we have 5 copies of a old version of your application running and we want to roll out a new one. A few of the strategies that it could be use:
 
 - **Rolling deployment with replacement**: Take down 1 of the old copies of the app, deploy a new copy to replace it, wait for the new copy to come up and pass health checks, start sending the new copy live traffic, and then repeat the process until all the old copies have been replaced. Rolling deployment with replacement ensures that you never have more than 5 copies of the app running, which could be useful if you have limited capacity, or if you’re dealing with a stateful system where each app has a unique identity. This deployment strategy can work with larger batch sizes and that during deployment, you will have both the old and new versions of the app running at the same time.
 
